@@ -5,6 +5,8 @@
 * [Android Architecture](https://source.android.com/devices/architecture)
 * [Git](https://git-scm.com/book/en/v2)
 * [FreeBSD](https://docs.freebsd.org/en/)
+* [Linux Journey](https://linuxjourney.com/)
+* [Guia Foca](https://guiafoca.org/)
 
 ## Servers
 * [Apache Pig](http://pig.apache.org/docs/r0.17.0/start.html)

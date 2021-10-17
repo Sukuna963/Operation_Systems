@@ -17,7 +17,8 @@
 * [osquery](https://www.osquery.io/)
 * [Kali Linux](https://www.kali.org/)
 * [Ubuntu](https://ubuntu.com/)
-* [Parrot Sec](https://www.parrotsec.org/)
+* [Parrot](https://www.parrotsec.org/)
+* [qubesOS](https://www.qubes-os.org/)
 
 ## Servers
 * [Apache Pig](http://pig.apache.org/docs/r0.17.0/start.html)
@@ -27,6 +28,7 @@
 * [Sysmon - Linux](https://github.com/Sysinternals/SysmonForLinux)
 
 ## Hacking
+* [invisiblethings](https://blog.invisiblethings.org/index.html)
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)
 * [Global Information Assurance Certification Paper](https://www.giac.org/paper/gpen/8849/preventing-living-land-attacks/140526)
 * [CyberWorkx](https://cyberworkx.in/)

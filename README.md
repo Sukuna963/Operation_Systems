@@ -19,6 +19,7 @@
 * [Ubuntu](https://ubuntu.com/)
 * [Parrot](https://www.parrotsec.org/)
 * [qubesOS](https://www.qubes-os.org/)
+* [Tails](https://tails.boum.org/)
 
 ## Servers
 * [Apache Pig](http://pig.apache.org/docs/r0.17.0/start.html)

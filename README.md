@@ -27,6 +27,7 @@
 
 ## Tools
 * [Sysmon - Linux](https://github.com/Sysinternals/SysmonForLinux)
+* [Geany](https://www.geany.org/)
 
 ## Hacking
 * [invisiblethings](https://blog.invisiblethings.org/index.html)

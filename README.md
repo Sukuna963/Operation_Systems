@@ -29,6 +29,13 @@
 * [Sysmon - Linux](https://github.com/Sysinternals/SysmonForLinux)
 * [Geany](https://www.geany.org/)
 
+## Package Manager
+* [Chocolatey](https://chocolatey.org/)
+* [RPM](http://rpm.org/)
+* [DPKG](https://www.dpkg.org/)
+* [Brew](https://brew.sh/)
+* [MacPorts](https://www.macports.org/)
+
 ## Hacking
 * [invisiblethings](https://blog.invisiblethings.org/index.html)
 * [THALPIUS - MICROSOFT SECURITY BLOG](https://thalpius.com/)

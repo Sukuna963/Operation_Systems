@@ -11,6 +11,7 @@
 * [Kernel Linux](https://www.kernel.org/)
 * [Android Architecture](https://source.android.com/devices/architecture)
 * [Git](https://git-scm.com/book/en/v2)
+* [V8](https://v8.dev/)
 
 ## OS
 * [FreeBSD](https://docs.freebsd.org/en/)

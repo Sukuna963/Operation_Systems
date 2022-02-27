@@ -13,6 +13,7 @@
 * [Git](https://git-scm.com/book/en/v2)
 * [V8](https://v8.dev/)
 * [Muen](https://muen.sk/)
+* [Create Operation System](https://samypesse.gitbook.io/how-to-create-an-operating-system/)
 
 ## OS
 * [FreeBSD](https://docs.freebsd.org/en/)

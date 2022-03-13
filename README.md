@@ -35,6 +35,7 @@
 * [Sysmon - Linux](https://github.com/Sysinternals/SysmonForLinux)
 * [Geany](https://www.geany.org/)
 * [Bumblebee](https://bumblebee.io/EN)
+* [SUSE Studio](https://studioexpress.opensuse.org/)
 
 ## Package Manager
 * [Chocolatey](https://chocolatey.org/)

@@ -34,6 +34,7 @@
 ## Tools
 * [Sysmon - Linux](https://github.com/Sysinternals/SysmonForLinux)
 * [Geany](https://www.geany.org/)
+* [Bumblebee](https://bumblebee.io/EN)
 
 ## Package Manager
 * [Chocolatey](https://chocolatey.org/)

@@ -2,6 +2,7 @@
 
 ## Courses
 * [Linux Fundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
+* [ebpf](https://ebpf.io/)
 
 ## Learning
 * [osdev](https://wiki.osdev.org/Expanded_Main_Page)
